@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 - 🔭 Pursuing Postgraduation in Statistics from Pondicherry Central University, India
 - 📫 How to reach me 👉 **shreyaranjanroy@gmail.com**
+- 📍 Calcutta, India
+- ⚡ Loves  ✈️  🎨  📖  ♟
 <!--
 - 🌱 I’m currently learning everything 🤣
 - 👯 Looking to collaborate with other content creators

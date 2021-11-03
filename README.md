@@ -26,12 +26,13 @@ Here are some ideas to get you started:
 <a href="https://kaggle.com/shreyaroy1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shreyaroy1" height="30" width="40" /></a>
 </p>
 
-- 📫 How to reach me **shreyaranjanroy@gmail.com**
+
 
 <h2 align="center">About me! 😊</h2>
 
 
 - 🔭 Pursuing Postgraduation in Statistics from Pondicherry Central University, India
+- 📫 How to reach me 👉 **shreyaranjanroy@gmail.com**
 <!--
 - 🌱 I’m currently learning everything 🤣
 - 👯 Looking to collaborate with other content creators

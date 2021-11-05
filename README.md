@@ -175,10 +175,14 @@ Here are some ideas to get you started:
 
 <h2 align="center"> Profile Stats! </h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyaroy59&" alt="shreyaroy59" /></p>
+
 
 
 <!--
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyaroy59&" alt="shreyaroy59" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyaroy59&" alt="shreyaroy59" /></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyaroy59&show_icons=true&locale=en&layout=compact" alt="shreyaroy59" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shreyaroy59&show_icons=true&locale=en" alt="shreyaroy59" /></p>
@@ -189,9 +193,14 @@ Here are some ideas to get you started:
 -->
 
 
-
+<!--
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ShreyaRoy59&theme=gruvbox&hide_border=true&area=true)
+-->
 
+
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=ShreyaRoy59&theme=radical&hide_border=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ShreyaRoy59&theme=redical&hide_border=true&area=true)
 
 
 

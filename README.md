@@ -1,5 +1,6 @@
 
 
+
 <!--
 **ShreyaRoy59/ShreyaRoy59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,10 +15,39 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=shreyaroy59&label=Profile%20views&color=0e75b6&style=flat" alt="shreyaroy59" /> </p>
+
+
+<hr>
+<h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Shreya Roy </h1>
+<h3 align="center">Statistics Postgrad | An aspiring Data Scientist </h3>
+
+ <p align="center">
+<!--
+  <img src="https://img.shields.io/badge/Age-26-blue" />-->
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-INDIA%20-blue" />
+  <img src="https://img.shields.io/badge/Languages-English%20,%20Bengali%20%26%20Hindi-brightgreen" />
+</p>
+
+
+
+
+
+<p align="center">
+<img src="https://bigdatapath.files.wordpress.com/2017/06/realtimepersonalization_embed.gif?w=1108" width="800px">
+</p>
+ <!--                                                                                                             
+ <p align="center">
+<img src="https://lh3.googleusercontent.com/proxy/AeT-hqDOTlQmVQCJrTEqUjGdh3292wxjWa5wU3CnXqRu9auq5VrvlFKyk2sjjtGiQAieDtWoOHwakh8zHzV6Ta8qx9_r4aymcpZ1lIQnZ0hUibI_hYxRiSk6mf0m6gI7Vk65vCLu" width="900px" >                                           </p>                                                                 
+-->
+
+
+<!--
 <h1 align="center">Hi there! 👋 I'm SHREYA ROY </h1>
 <h3 align="center">An aspiring Data Scientist from India</h3>
+-->
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=shreyaroy59&label=Profile%20views&color=0e75b6&style=flat" alt="shreyaroy59" /> </p>
 
 
 <h3 align="middle">Connect with me:</h3>
@@ -25,6 +55,27 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/shreyaroy8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyaroy8" height="30" width="40" /></a>
 <a href="https://kaggle.com/shreyaroy1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shreyaroy1" height="30" width="40" /></a>
 </p>
+
+
+
+
+
+
+<p align="center">
+  <em>
+    Hello, I am Shreya Roy, a <b>final year</b> postgraduate from <a href="https://www.pondiuni.edu.in/"> <b>PONDICHERRY CENTRAL UNIVERSITY</b>, India (" Vers la lumière ")</a>. <br>
+    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and an <b>aspiring Data Scientist</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp <br> always looking to find patterns hidden in the data. 
+  </em> 
+  <br>
+  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "No much is too much - No where is too far to go!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+</p>
+<br><br>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+
+
+
+
 
 
 

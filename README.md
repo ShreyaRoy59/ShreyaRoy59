@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi there 👋, I'm Shreya Roy !</h1>
+<h1 align="center">Hi there! 👋 I'm Shreya Roy </h1>
 <h3 align="center">An aspiring Data Scientist from India</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=shreyaroy59&label=Profile%20views&color=0e75b6&style=flat" alt="shreyaroy59" /> </p>

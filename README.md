@@ -25,8 +25,9 @@ Here are some ideas to get you started:
  <p align="center">
 <!--
   <img src="https://img.shields.io/badge/Age-26-blue" />-->
+ 
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-INDIA%20-blue" />
+  <img src="https://img.shields.io/badge/Origin-INDIA%20-blue" />
   <img src="https://img.shields.io/badge/Languages-English%20,%20Bengali%20%26%20Hindi-brightgreen" />
 </p>
 

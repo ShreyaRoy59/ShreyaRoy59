@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 <h3 align="center">Statistics Postgrad | An aspiring Data Scientist </h3>
 
  <p align="center">
-<!--
- 
+
+ <!--
  <img src="https://img.shields.io/badge/Age-26-blue" />-->
  
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />

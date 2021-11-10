@@ -80,10 +80,11 @@ Here are some ideas to get you started:
 
 
 
+<h2 align="left">BACKGROUND</h2>
 
-
+<!--
 <h2 align="center">About me! 😊</h2>
-
+-->
 
 - 🔭 Pursuing Postgraduation in Statistics from Pondicherry Central University, India
 - 📫 Reach me @ 👉 **shreyaranjanroy@gmail.com**

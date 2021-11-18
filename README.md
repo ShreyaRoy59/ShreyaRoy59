@@ -94,7 +94,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning everything 🤣
 - 👯 Looking to collaborate with other content creators
 - 🥅 2020 Goals: Explore Machine Lea
-- ⚡ Fun fact: I love painting
+- ⚡ Fun fact: I love painting, reading, coding
 <!--
 ### Connect with me:
 

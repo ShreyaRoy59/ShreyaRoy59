@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 
 <!--
-<h1 align="center">Hi there! 👋 I'm SHREYA RO0Y </h1>
+<h1 align="center">Hi there! 👋 I'm SHREYA R0Y </h1>
 <h3 align="center">An aspiring Data Scientist from India</h3>
 -->
 

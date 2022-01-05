@@ -95,7 +95,7 @@ I am Shreya Roy</h1>
 - 📍 Calcutta, India
 - ⚡ Loves  ✈️  🎨  📖  ♟
 <!--
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything!
 - 👯 Looking to collaborate with other content creators
 - 🥅 2020 Goals: Explore Machine Lea
 - ⚡ Fun fact: I love painting, reading, coding

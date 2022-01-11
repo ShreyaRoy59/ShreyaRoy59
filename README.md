@@ -62,8 +62,6 @@ I am Shreya Roy</h1>
 
 
 
-
-
 <p align="center">
   <em>
     Hello, I am Shreya Roy, a <b>final year</b> postgraduate from <a href="https://www.pondiuni.edu.in/"> <b>PONDICHERRY CENTRAL UNIVERSITY</b>, India (" Vers la lumière ")</a>. <br>
@@ -74,8 +72,6 @@ I am Shreya Roy</h1>
 </p>
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
-
 
 
 
@@ -142,6 +138,7 @@ I am Shreya Roy</h1>
 4. 🗣 Commented on [#11](https://github.com/codeSTACKr/free-developer-resources/issues/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
 5. 🎉 Merged PR [#10](https://github.com/codeSTACKr/free-developer-resources/pull/10) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
 <!--END_SECTION:activity-->
+
 <!--
 </details>
 
@@ -164,8 +161,6 @@ I am Shreya Roy</h1>
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
 -->
-
-
 
 
 

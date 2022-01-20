@@ -10,10 +10,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ......
+- ⚡ Fun fact: ...
 -->
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=shreyaroy59&label=Profile%20views&color=0e75b6&style=flat" alt="shreyaroy59" /> </p>
+
 
 
 <hr>
@@ -35,15 +36,18 @@ I am Shreya Roy</h1>
 
 
 
+
 <p align="center">
 <img src="https://bigdatapath.files.wordpress.com/2017/06/realtimepersonalization_embed.gif?w=1108" width="800px">
 </p>
+
 
 
 <!--                                                                                                            
  <p align="center">
 <img src="https://lh3.googleusercontent.com/proxy/AeT-hqDOTlQmVQCJrTEqUjGdh3292wxjWa5wU3CnXqRu9auq5VrvlFKyk2sjjtGiQAieDtWoOHwakh8zHzV6Ta8qx9_r4aymcpZ1lIQnZ0hUibI_hYxRiSk6mf0m6gI7Vk65vCLu" width="900px" >                                           </p>                                                                 
 -->
+
 
 
 <!--

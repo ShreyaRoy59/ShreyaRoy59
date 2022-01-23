@@ -82,7 +82,7 @@ I am Shreya Roy</h1>
 
 
 
-<h2 align="left">BACKGROUND</h2>
+<h2 align="center">BACKGROUND</h2>
 
 <!--
 <h2 align="center">About me! 😊</h2>

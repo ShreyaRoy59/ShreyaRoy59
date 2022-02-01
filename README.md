@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h1 align="center">Greetings, respected visitors 
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
 I am Shreya Roy</h1>
-<h3 align="center">Statistics Post-grad | An aspiring Data Scientist </h3>
+<h3 align="center">Statistics Postgrad | An aspiring Data Scientist </h3>
 
 
 

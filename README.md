@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+ 👉
 -->
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=shreyaroy59&label=Profile%20views&color=0e75b6&style=flat" alt="shreyaroy59" /> </p>
@@ -90,7 +91,7 @@ I am Shreya Roy</h1>
 -->
 
 - 🔭 Pursuing Postgraduation in Statistics from Pondicherry Central University, India
-- 📫 Reach me @ 👉 **shreyaranjanroy@gmail.com**
+- 📫 Reach me @ **shreyaranjanroy@gmail.com**
 - 📍 Calcutta, India
 - ⚡ Loves  ✈️  🎨  📖  ♟
 <!--

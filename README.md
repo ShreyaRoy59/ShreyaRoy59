@@ -28,7 +28,7 @@ I am Shreya Roy</h1>
 
 
 
- <p align="left">
+ <p align="center">
 
 
 <!--

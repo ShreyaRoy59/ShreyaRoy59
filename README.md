@@ -70,7 +70,7 @@ I am Shreya Roy</h1>
 
 <p align="center">
   <em>
-    Hello, I am Shreya Roy, a <b>final year</b> postgraduate from <a href="https://www.pondiuni.edu.in/"> <b>PONDICHERRY CENTRAL UNIVERSITY</b>, India (" Vers la lumière ")</a>. <br>
+    Hello, I am Shreya Roy, a <b> final year </b> postgraduate from <a href="https://www.pondiuni.edu.in/"> <b>PONDICHERRY CENTRAL UNIVERSITY</b>, India (" Vers la lumière ")</a>. <br>
     <b>A passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and an <b>aspiring Data Scientist</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp <br> always looking to find patterns hidden in the data. 
   </em> 
   <br>

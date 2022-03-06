@@ -25,8 +25,6 @@ I am Shreya Roy</h1>
 
 <h3 align="center">Statistics Postgrad | An aspiring Data Scientist </h3>
 
-
-
  <p align="center">
 
 

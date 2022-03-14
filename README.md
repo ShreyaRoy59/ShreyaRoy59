@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
 I am Shreya Roy</h1>
 
+
 <h3 align="center">Statistics Postgrad | An aspiring Data Scientist </h3>
 
  <p align="center">
@@ -88,6 +89,7 @@ I am Shreya Roy</h1>
 
 
 <h2 align="left">BACKGROUND</h2>
+
 
 <!--
 <h2 align="center">About me! 😊</h2>

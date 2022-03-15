@@ -50,8 +50,6 @@ I am Shreya Roy</h1>
 
 
 
-
-
 <!--                                                                                                            
  <p align="center">
 <img src="https://lh3.googleusercontent.com/proxy/AeT-hqDOTlQmVQCJrTEqUjGdh3292wxjWa5wU3CnXqRu9auq5VrvlFKyk2sjjtGiQAieDtWoOHwakh8zHzV6Ta8qx9_r4aymcpZ1lIQnZ0hUibI_hYxRiSk6mf0m6gI7Vk65vCLu" width="900px" >                                           </p>                                                                 
@@ -117,6 +115,7 @@ I am Shreya Roy</h1>
 
 <br />
 
+
 ## Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
@@ -138,6 +137,7 @@ I am Shreya Roy</h1>
 
 <br />
 <br />
+
 
 ---
 

@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 I am Shreya Roy</h1>
 
 
+
+
 <h3 align="center">Statistics Postgrad | An aspiring Data Scientist </h3>
 
  <p align="center">
@@ -46,6 +48,7 @@ I am Shreya Roy</h1>
 <p align="center">
 <img src="https://bigdatapath.files.wordpress.com/2017/06/realtimepersonalization_embed.gif?w=1108" width="800px">
 </p>
+
 
 
 

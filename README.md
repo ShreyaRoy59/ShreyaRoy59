@@ -31,7 +31,6 @@ I am Shreya Roy</h1>
  <p align="center">
 
 
-
 <!--
  <img src="https://img.shields.io/badge/Age-24-blue" />
 -->
@@ -47,7 +46,6 @@ I am Shreya Roy</h1>
 <p align="center">
 <img src="https://bigdatapath.files.wordpress.com/2017/06/realtimepersonalization_embed.gif?w=1108" width="800px">
 </p>
-
 
 
 
@@ -70,7 +68,6 @@ I am Shreya Roy</h1>
 <a href="https://linkedin.com/in/shreyaroy8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyaroy8" height="30" width="40" /></a>
 <a href="https://kaggle.com/shreyaroy1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shreyaroy1" height="30" width="40" /></a>
 </p>
-
 
 
 
@@ -184,14 +181,11 @@ I am Shreya Roy</h1>
 
 
 
-
-
 <h2 align="center">Languages and Tools</h2>
 <p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
 <h2 align="center"> Profile Stats! </h2>
-
 
 
 

@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 <hr>
-<h1 align="center">Greetings, respected visitors 
+<h1 align="center">Greetings, respected visitors! 
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
 I am Shreya Roy</h1>
 

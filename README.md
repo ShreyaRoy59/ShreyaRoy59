@@ -69,7 +69,6 @@ I am Shreya Roy</h1>
 
 
 
-
 <p align="center">
   <em>
     Hello, I am Shreya Roy, a <b> final year </b> postgraduate from <a href="https://www.pondiuni.edu.in/"> <b>PONDICHERRY CENTRAL UNIVERSITY</b>, India (" Vers la lumière ")</a>. <br>
@@ -80,7 +79,6 @@ I am Shreya Roy</h1>
 </p>
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
 
 
 
@@ -138,7 +136,6 @@ I am Shreya Roy</h1>
 <br />
 
 
----
 
 
 <!--

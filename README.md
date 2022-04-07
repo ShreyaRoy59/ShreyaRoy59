@@ -216,10 +216,6 @@ I am Shreya Roy</h1>
 
 
 
-
-
-
-
 <h2 align="center"> <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i> </h2>
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShreyaRoy59&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>

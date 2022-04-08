@@ -53,7 +53,6 @@ I am Shreya Roy</h1>
 -->
 
 
-
 <!--
 <h1 align="center">Hi there! 👋 I'm SHREYA R0Y </h1>
 <h3 align="center">An aspiring Data Scientist from India</h3>
@@ -205,8 +204,6 @@ I am Shreya Roy</h1>
 <!--
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ShreyaRoy59&theme=gruvbox&hide_border=true&area=true)
 -->
-
-
 
 
 

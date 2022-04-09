@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=shreyaroy59&label=Profile%20views&color=0e75b6&style=flat" alt="shreyaroy59" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=shreyaroy59&label=Profile%20views&color=0e75b6&style=flat" alt="shreyaroy59" /> </p>
 
 
 <hr>

@@ -30,7 +30,6 @@ I am Shreya Roy</h1>
  <p align="center">
 
 
-
 <!--
  <img src="https://img.shields.io/badge/Age-24-blue" />
 -->
@@ -136,7 +135,6 @@ I am Shreya Roy</h1>
 
 
 
-
 <!--
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
@@ -173,9 +171,7 @@ I am Shreya Roy</h1>
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
 
-
 -->
-
 
 
 <h2 align="center">Languages and Tools</h2>

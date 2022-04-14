@@ -46,6 +46,7 @@ I am Shreya Roy</h1>
 </p>
 
 
+
 <!--                                                                                                            
  <p align="center">
 <img src="https://lh3.googleusercontent.com/proxy/AeT-hqDOTlQmVQCJrTEqUjGdh3292wxjWa5wU3CnXqRu9auq5VrvlFKyk2sjjtGiQAieDtWoOHwakh8zHzV6Ta8qx9_r4aymcpZ1lIQnZ0hUibI_hYxRiSk6mf0m6gI7Vk65vCLu" width="900px" >                                           </p>                                                                 
@@ -84,6 +85,7 @@ I am Shreya Roy</h1>
 
 
 
+
 <!--
 <h2 align="center">About me! 😊</h2>
 -->
@@ -101,6 +103,7 @@ I am Shreya Roy</h1>
 - ⚡ Fun fact: I love painting, reading, coding
 <!--
 ### Connect with me:
+
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]

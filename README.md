@@ -30,10 +30,12 @@ I am Shreya Roy</h1>
  <p align="center">
 
 
+
 <!--
  <img src="https://img.shields.io/badge/Age-24-blue" />
 -->
  
+
 
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
   <img src="https://img.shields.io/badge/Origin-INDIA%20-blue" />
@@ -41,9 +43,11 @@ I am Shreya Roy</h1>
 </p>
 
 
+
 <p align="center">
 <img src="https://bigdatapath.files.wordpress.com/2017/06/realtimepersonalization_embed.gif?w=1108" width="800px">
 </p>
+
 
 
 

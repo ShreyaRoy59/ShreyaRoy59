@@ -31,7 +31,6 @@ I am Shreya Roy</h1>
  <p align="center">
 
 
-
 <!--
  <img src="https://img.shields.io/badge/Age-24-blue" />
 -->
@@ -51,7 +50,6 @@ I am Shreya Roy</h1>
 
 
 
-
 <!--                                                                                                            
  <p align="center">
 <img src="https://lh3.googleusercontent.com/proxy/AeT-hqDOTlQmVQCJrTEqUjGdh3292wxjWa5wU3CnXqRu9auq5VrvlFKyk2sjjtGiQAieDtWoOHwakh8zHzV6Ta8qx9_r4aymcpZ1lIQnZ0hUibI_hYxRiSk6mf0m6gI7Vk65vCLu" width="900px" >                                           </p>                                                                 
@@ -62,7 +60,6 @@ I am Shreya Roy</h1>
 <h1 align="center">Hi there! 👋 I'm SHREYA R0Y </h1>
 <h3 align="center">An aspiring Data Scientist from India</h3>
 -->
-
 
 
 <h3 align="middle">Connect with me:</h3>
@@ -87,7 +84,6 @@ I am Shreya Roy</h1>
 
 
 <h2 align="left">BACKGROUND</h2>
-
 
 
 

@@ -48,7 +48,6 @@ I am Shreya Roy</h1>
 </p>
 
 
-
 <!--                                                                                                            
  <p align="center">
 <img src="https://lh3.googleusercontent.com/proxy/AeT-hqDOTlQmVQCJrTEqUjGdh3292wxjWa5wU3CnXqRu9auq5VrvlFKyk2sjjtGiQAieDtWoOHwakh8zHzV6Ta8qx9_r4aymcpZ1lIQnZ0hUibI_hYxRiSk6mf0m6gI7Vk65vCLu" width="900px" >                                           </p>                                                                 
@@ -68,7 +67,6 @@ I am Shreya Roy</h1>
 </p>
 
 
-
 <p align="center">
   <em>
     Hello, I am Shreya Roy, a <b> final year </b> postgraduate from <a href="https://www.pondiuni.edu.in/"> <b>PONDICHERRY CENTRAL UNIVERSITY</b>, India (" Vers la lumière ")</a>. <br>
@@ -81,9 +79,7 @@ I am Shreya Roy</h1>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 
-
 <h2 align="left">BACKGROUND</h2>
-
 
 
 <!--
@@ -175,7 +171,6 @@ I am Shreya Roy</h1>
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
-
 -->
 
 
@@ -210,7 +205,6 @@ I am Shreya Roy</h1>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ShreyaRoy59&theme=radical&hide_border=true)
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ShreyaRoy59&theme=redical&hide_border=true&area=true)
-
 
 
 

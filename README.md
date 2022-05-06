@@ -1,4 +1,5 @@
 
+
 <!--
 
 **ShreyaRoy59/ShreyaRoy59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -85,6 +86,7 @@ I am Shreya Roy</h1>
 <h2 align="center">About me! 😊</h2>
 -->
 
+
 - 🔭 Pursuing Postgraduation in Statistics from Pondicherry Central University, India
 - 📫 Reach me @ **shreyaranjanroy@gmail.com**
 - 📍 Calcutta, India
@@ -146,6 +148,7 @@ I am Shreya Roy</h1>
 4. 🗣 Commented on [#11](https://github.com/codeSTACKr/free-developer-resources/issues/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
 5. 🎉 Merged PR [#10](https://github.com/codeSTACKr/free-developer-resources/pull/10) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
 <!--END_SECTION:activity-->
+
 
 <!--
 

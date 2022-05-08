@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=shreyaroy59&label=Profile%20views&color=0e75b6&style=flat" alt="shreyaroy59" /> </p>
 
 
@@ -26,7 +27,9 @@ Here are some ideas to get you started:
 I am Shreya Roy</h1>
 
 
-<h3 align="center">Statistics Postgrad | An aspiring Data Scientist </h3>
+
+<h3 
+align="center">Statistics Postgrad | An aspiring Data Scientist </h3>
 
  <p align="center">
 

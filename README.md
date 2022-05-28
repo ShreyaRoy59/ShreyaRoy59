@@ -1,6 +1,7 @@
 
 <!--
 
+
 **ShreyaRoy59/ShreyaRoy59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
@@ -13,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  👉
+
 -->
 
 
@@ -34,4 +36,5 @@ align="center">Statistics Postgrad | An aspiring Data Scientist </h3>
 
 
  <img src="https://img.shields.io/badg
+
 

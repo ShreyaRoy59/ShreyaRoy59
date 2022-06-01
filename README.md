@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 I am Shreya Roy</h1>
 
 
-
 <h3 
 align="center">Statistics Postgrad | An aspiring Data Scientist </h3>
 

@@ -1,5 +1,4 @@
 
-
 <!--
 
 
@@ -18,7 +17,6 @@ Here are some ideas to get you started:
 
 -->
 
-
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=shreyaroy59&label=Profile%20views&color=0e75b6&style=flat" alt="shreyaroy59" /> </p>
 
 
@@ -34,7 +32,5 @@ align="center">Statistics Postgrad | An aspiring Data Scientist </h3>
  <p align="center">
 
 
-
  <img src="https://img.shields.io/badg
-
 
